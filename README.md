@@ -29,3 +29,12 @@ The program randomly generates a number between 1 and 100, and the user has a li
    java NumberGuessingGame
 
 ---
+
+## 📸 Output Screenshot
+<img width="744" height="308" alt="output" src="https://github.com/user-attachments/assets/2ed1e853-47d5-4587-b949-4a510abca477" />
+
+
+---
+
+## 👩‍💻 Author
+**Firdous Shaikh**
